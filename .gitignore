@@ -1,0 +1,15 @@
+.DS_Store
+**/.DS_Store
+mobile-audit/
+**/test-results/
+**/playwright-report/
+**/.swc/
+extracted/vagas-main/.claude/
+extracted/vagas-main/.cursor/
+extracted/vagas-main/.mcp.json
+extracted/vagas-main/.playwright-mcp/
+extracted/vagas-main/dev_output.log
+extracted/vagas-main/supabase/.temp/
+extracted/vagas-main/*.md
+!extracted/vagas-main/README.md
+!extracted/vagas-main/IMPLEMENTACAO_SPEC_CORRECOES.md

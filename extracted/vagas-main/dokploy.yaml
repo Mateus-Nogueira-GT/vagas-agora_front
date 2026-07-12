@@ -1,0 +1,3 @@
+buildType: dockerfile
+dockerfilePath: ./Dockerfile
+buildArgs: {}
